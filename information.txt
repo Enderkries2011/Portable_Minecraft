@@ -1,0 +1,2 @@
+run launch.bat as admin (.bat = windows batch file)
+after opening launch.bat you are gone mayby get a error dont worry just click on the button "ok" some librarys may install but its preinstalled "be sure thats in your usb JDK64\bin\javaw.jar in this folder is if its in" have fun playing :D
