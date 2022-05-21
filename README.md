@@ -7,4 +7,4 @@ worry just click on the button "ok" some librarys may install but its preinstall
 thats in your usb (JDK64\bin\javaw.jar) is in this folder if its in" have fun playing :D
 
 
-BTW "launch-TL.bat = Tlauncher free minecraft" -------------------------------------------- "launch-MC_Official.bat = Official Minecraft Launcher"
+BTW "launch-TL.bat = Tlauncher free minecraft" ------------------- "launch-MC_Official.bat = Official Minecraft Launcher"
